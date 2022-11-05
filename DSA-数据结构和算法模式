@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T02:35:01.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="NbhWNCIe2Rgzy70yikmS" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T02:36:26.802Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="tAWWINJHitZ_jZRz6WCi" version="20.5.1" type="github">
   <diagram id="heQI_6D9LdNxmaZMfYob" name="Page-1">
     <mxGraphModel dx="1552" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="b7TivTc9jBOZDLMRhhWY-1" value="数据结构和算法 - 面试准备的有效性&lt;br&gt;&lt;ul&gt;&lt;li&gt;笨方法 - 刷题、积累感觉&lt;/li&gt;&lt;li&gt;改进 - 寻求并总结模式、提炼问题、总结模式和套路&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;不要单纯的刷题和记忆题目，练习套路和模式&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="50" width="340" height="120" as="geometry" />
+        <mxCell id="b7TivTc9jBOZDLMRhhWY-1" value="数据结构和算法 - 面试准备的有效性&lt;br&gt;&lt;ul&gt;&lt;li&gt;笨方法 - 刷题、积累感觉&lt;/li&gt;&lt;li&gt;改进 - 寻求并总结模式、提炼问题、总结模式和套路&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;不要单纯的刷题和记忆题目，练习套路和模式&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;80%的题目，涉及到 1-145 个模式&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="25" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="b7TivTc9jBOZDLMRhhWY-2" value="模式 - 可以按数据结构和算法分类&lt;br&gt;&lt;ol&gt;&lt;li&gt;二分查找&lt;/li&gt;&lt;li&gt;滑动窗口&lt;/li&gt;&lt;li&gt;尾递归&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
