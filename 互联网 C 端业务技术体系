@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T11:48:30.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="RSBcT1CuzKY2TnyVMMJa" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T14:45:36.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="giYI0392ucbkvCb0XQXz" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
     <mxGraphModel dx="1298" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry x="1010" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-34" value="价值&lt;br&gt;&lt;ul&gt;&lt;li&gt;如果将场景和方案联系起来&lt;/li&gt;&lt;li&gt;如何构建更大的图景&lt;/li&gt;&lt;li&gt;如何理解趋势和历史&lt;/li&gt;&lt;li&gt;如何发现存在的不足&lt;/li&gt;&lt;li&gt;如何针对具体的场景提出更合理的方案、创新&lt;/li&gt;&lt;li&gt;问题域、解决方案域、如何从底层开始构建起来的能力&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="-100" width="350" height="140" as="geometry" />
+          <mxGeometry x="1270" y="-60" width="350" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8At-T494mJCjucnSVLsG-36" target="8At-T494mJCjucnSVLsG-37">
           <mxGeometry relative="1" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="1275" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-48" value="&lt;h1&gt;想清楚、讲明白、做到位&lt;/h1&gt;&lt;p&gt;1、如何掌握一个领域和话题&lt;/p&gt;&lt;p&gt;2、如何讲清楚一个领域和话题 - how、分享、分析&lt;/p&gt;&lt;p&gt;3、如何去学习，如何去理解，如何去应用&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1、好奇心、利用机会&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-190" width="290" height="190" as="geometry" />
+          <mxGeometry x="660" y="-310" width="290" height="190" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-49" value="分布式系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1890" y="530" width="120" height="60" as="geometry" />
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-63" value="&lt;h1&gt;Java 并发知识体系&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2210" y="150" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-65" value="&lt;h1&gt;我的标签和优势&lt;/h1&gt;&lt;p&gt;资深、经验丰富、管理经验&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1、业务场景：电商、O2O 的系统是什么&lt;/p&gt;&lt;p&gt;2、交易领域、营销领域、等等的难度和挑战&lt;/p&gt;&lt;p&gt;3、实现高并发、高可用、高性能的 C 端业务的方法和模式是什么&lt;/p&gt;&lt;p&gt;4、你在这些项目中，带来了哪些的不同&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;技术方面，围绕微服务体系，设计到哪些业务和技术主题&lt;/p&gt;&lt;p&gt;如何理解、如何应用、如何思考，有哪些机会和空间&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;如何做到业务理解&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-430" width="300" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
