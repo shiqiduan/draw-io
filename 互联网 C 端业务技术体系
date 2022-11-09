@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T14:51:24.210Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="s4uxtQ3q1q9s3jRru0Fu" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T14:51:39.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lAlSlga6JTJGl9bNsZX-" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
     <mxGraphModel dx="1298" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,58 +167,58 @@
           <mxGeometry x="920" y="-490" width="300" height="440" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-66" value="外卖 C 端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="-480" width="80" height="40" as="geometry" />
+          <mxGeometry x="1295" y="-480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-67" value="电商 C 端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="-480" width="80" height="40" as="geometry" />
+          <mxGeometry x="1415" y="-480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-68" value="交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="-420" width="80" height="40" as="geometry" />
+          <mxGeometry x="1275" y="-420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-69" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="-420" width="80" height="40" as="geometry" />
+          <mxGeometry x="1365" y="-420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-70" value="营销" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="-420" width="80" height="40" as="geometry" />
+          <mxGeometry x="1455" y="-420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-71" value="微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-360" width="80" height="40" as="geometry" />
+          <mxGeometry x="1285" y="-360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-72" value="稳定性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="-360" width="80" height="40" as="geometry" />
+          <mxGeometry x="1375" y="-360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-73" value="技术体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="-360" width="80" height="40" as="geometry" />
+          <mxGeometry x="1465" y="-360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-74" value="软件研发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-310" width="260" height="40" as="geometry" />
+          <mxGeometry x="1285" y="-310" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-75" value="架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-260" width="70" height="40" as="geometry" />
+          <mxGeometry x="1285" y="-260" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-76" value="业务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="-260" width="70" height="40" as="geometry" />
+          <mxGeometry x="1365" y="-260" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-77" value="组织" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="-260" width="70" height="40" as="geometry" />
+          <mxGeometry x="1445" y="-260" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-78" value="项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="-260" width="70" height="40" as="geometry" />
+          <mxGeometry x="1525" y="-260" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-79" value="行业水平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="-420" width="80" height="40" as="geometry" />
+          <mxGeometry x="1635" y="-420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-80" value="难点问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="-370" width="80" height="40" as="geometry" />
+          <mxGeometry x="1635" y="-370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-81" value="价值创造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="-320" width="80" height="40" as="geometry" />
+          <mxGeometry x="1635" y="-320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-82" value="我的增量价值是什么" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1347.5" y="-200" width="125" height="40" as="geometry" />
+          <mxGeometry x="1342.5" y="-200" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-83" value="思考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="-140" width="70" height="40" as="geometry" />
+          <mxGeometry x="1370" y="-140" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
