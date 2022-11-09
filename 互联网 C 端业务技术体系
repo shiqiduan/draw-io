@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T14:46:19.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="noQiT8SmhbxRoeKDyKrN" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T14:46:27.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4VGr9Xe9OMAPUvNhlpTe" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
     <mxGraphModel dx="1298" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry x="1010" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-34" value="价值&lt;br&gt;&lt;ul&gt;&lt;li&gt;如果将场景和方案联系起来&lt;/li&gt;&lt;li&gt;如何构建更大的图景&lt;/li&gt;&lt;li&gt;如何理解趋势和历史&lt;/li&gt;&lt;li&gt;如何发现存在的不足&lt;/li&gt;&lt;li&gt;如何针对具体的场景提出更合理的方案、创新&lt;/li&gt;&lt;li&gt;问题域、解决方案域、如何从底层开始构建起来的能力&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="-60" width="350" height="140" as="geometry" />
+          <mxGeometry x="1315" y="-30" width="350" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8At-T494mJCjucnSVLsG-36" target="8At-T494mJCjucnSVLsG-37">
           <mxGeometry relative="1" as="geometry" />
