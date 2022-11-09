@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T15:05:45.157Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JYn1jyngvB72Cvai0e_d" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T15:08:52.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="12bgI3SvwTAOqeEAEVEn" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
-    <mxGraphModel dx="1137" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="895" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,6 +217,9 @@
         <mxCell id="8At-T494mJCjucnSVLsG-82" value="我的增量价值是什么" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1285" y="-200" width="125" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8At-T494mJCjucnSVLsG-83" target="8At-T494mJCjucnSVLsG-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-83" value="思考" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1370" y="-140" width="70" height="40" as="geometry" />
         </mxCell>
@@ -231,6 +234,9 @@
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-87" value="生存法则" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1427.5" y="-200" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-88" value="时间、规模" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1475" y="-140" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
