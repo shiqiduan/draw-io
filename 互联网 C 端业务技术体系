@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T14:58:28.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nixIsHlAWjRQoG_Od9Pw" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T15:05:23.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0A2AvwlO5ZsMzZ0iiHfa" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
-    <mxGraphModel dx="1298" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1137" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,7 +211,7 @@
         <mxCell id="8At-T494mJCjucnSVLsG-80" value="难点问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1635" y="-370" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8At-T494mJCjucnSVLsG-81" value="价值创造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8At-T494mJCjucnSVLsG-81" value="价值创造" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1635" y="-320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-82" value="我的增量价值是什么" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
