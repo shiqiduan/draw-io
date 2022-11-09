@@ -1,26 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T10:01:25.683Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="cnt_HBp9Fgy1rIWE536o" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T10:10:56.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XdiuyyaR22l6Z2W4VpS-" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8At-T494mJCjucnSVLsG-1" value="基础平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-2" value="应用平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-3" value="技术平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-4" value="数据平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8At-T494mJCjucnSVLsG-5" value="基础能力&lt;br&gt;&lt;ul&gt;&lt;li&gt;边界感、解决某一个问题的多种方案的区别、知道什么时候选择&lt;/li&gt;&lt;li&gt;代码能力、设计能力、人际能力&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="80" width="400" height="80" as="geometry" />
+        <mxCell id="8At-T494mJCjucnSVLsG-5" value="基础能力&lt;br&gt;&lt;ul&gt;&lt;li&gt;边界感、解决某一个问题的多种方案的区别、知道什么时候选择&lt;/li&gt;&lt;li&gt;代码能力、设计能力、人际能力&lt;/li&gt;&lt;li&gt;你需要有一个能力，快速掌握某一个领域的能力&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="400" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8At-T494mJCjucnSVLsG-6" value="专业理解能力&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;你是否真正理解这个主题&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="80" width="200" height="70" as="geometry" />
+        <mxCell id="8At-T494mJCjucnSVLsG-6" value="传统学习 vs 掌握学习&lt;br&gt;&lt;ul&gt;&lt;li&gt;传统关注时间，花费的时间，而不是产出&lt;/li&gt;&lt;li&gt;掌握学习 - 是否真正理解了所要学习的内容，明确目标和产出&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="75" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8At-T494mJCjucnSVLsG-8" target="8At-T494mJCjucnSVLsG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8At-T494mJCjucnSVLsG-8" target="8At-T494mJCjucnSVLsG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8At-T494mJCjucnSVLsG-8" target="8At-T494mJCjucnSVLsG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-8" value="知识体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-9" value="业务应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-15" value="技术主题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-16" value="软技能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-17" value="发展策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-22" value="微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-23" value="缓存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-24" value="缓存领域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-25" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-26" value="kv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="380" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
