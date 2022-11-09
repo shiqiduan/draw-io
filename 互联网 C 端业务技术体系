@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T10:50:35.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Hfx710AUfUGwcpIAw0Si" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T10:50:55.371Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jgMQOhmTd-KdyGB0YBI7" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
     <mxGraphModel dx="1298" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -156,6 +156,9 @@
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-61" value="汇报能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-62" value="自我认知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
