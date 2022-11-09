@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T10:31:56.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="d1XFHQaQM0BinGtRh_OA" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T10:50:27.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sSfan33L6yE0KFXUXH4G" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
     <mxGraphModel dx="1298" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,10 +56,10 @@
           <mxGeometry x="1570" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-25" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="1570" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-26" value="kv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="420" width="80" height="40" as="geometry" />
+          <mxGeometry x="1570" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-27" value="业务主题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="200" width="120" height="60" as="geometry" />
@@ -120,6 +120,42 @@
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-48" value="&lt;h1&gt;想清楚、讲明白、做到位&lt;/h1&gt;&lt;p&gt;1、如何掌握一个领域和话题&lt;/p&gt;&lt;p&gt;2、如何讲清楚一个领域和话题 - how、分享、分析&lt;/p&gt;&lt;p&gt;3、如何去学习，如何去理解，如何去应用&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1、好奇心、利用机会&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="-190" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-49" value="分布式系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-50" value="高并发" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-51" value="并发模型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8At-T494mJCjucnSVLsG-52" target="8At-T494mJCjucnSVLsG-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-52" value="JVM = 并发模型、线程、并发库等" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-54" value="Java 并发知识" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-56" value="技术管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-57" value="技术管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-58" value="P8 和 Staff 的核心能力" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="590" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-59" value="沟通能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-60" value="思维模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-61" value="汇报能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
