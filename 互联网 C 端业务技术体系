@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T10:23:31.324Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4i8RFghGYu4ZLfMg20-l" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T10:24:58.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kjJEFL6xx5u6JbllErSx" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
     <mxGraphModel dx="1298" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,6 +91,9 @@
         <mxCell id="8At-T494mJCjucnSVLsG-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8At-T494mJCjucnSVLsG-36" target="8At-T494mJCjucnSVLsG-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8At-T494mJCjucnSVLsG-36" target="8At-T494mJCjucnSVLsG-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-36" value="Coding 能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="960" width="120" height="60" as="geometry" />
         </mxCell>
@@ -99,6 +102,18 @@
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-39" value="1、面试场景&lt;br&gt;2、模式收集&lt;br&gt;3、解题思路&lt;br&gt;4、熟练度" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="160" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-42" value="面向对象设计" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8At-T494mJCjucnSVLsG-44" target="8At-T494mJCjucnSVLsG-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-44" value="系统设计能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-45" value="1、抽象能力&lt;br&gt;2、分析能力&lt;br&gt;3、方案设计能力&lt;br&gt;4、主导能力&lt;br&gt;5、沟通能力" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="800" y="950" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
