@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T10:10:56.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XdiuyyaR22l6Z2W4VpS-" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T10:12:10.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Yz604l0Tv1Ng1YD3o4d0" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,16 +50,28 @@
           <mxGeometry x="360" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-23" value="缓存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="1370" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-24" value="缓存领域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="250" width="80" height="40" as="geometry" />
+          <mxGeometry x="1490" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-25" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="1490" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-26" value="kv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="1490" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-27" value="业务主题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-28" value="技术方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-29" value="抽象+简化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-30" value="问题定义 + 映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
