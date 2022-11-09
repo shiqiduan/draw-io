@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T14:58:14.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9QEMncDvt-n45g5X2WFw" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T14:58:28.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nixIsHlAWjRQoG_Od9Pw" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
     <mxGraphModel dx="1298" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
           <mxGeometry x="2210" y="150" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-65" value="&lt;h1&gt;我的标签和优势&lt;/h1&gt;&lt;p&gt;资深、经验丰富、管理经验&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1、业务场景：电商、O2O 的系统是什么&lt;/p&gt;&lt;p&gt;2、交易领域、营销领域、等等的难度和挑战&lt;/p&gt;&lt;p&gt;3、实现高并发、高可用、高性能的 C 端业务的方法和模式是什么&lt;/p&gt;&lt;p&gt;4、你在这些项目中，带来了哪些的不同&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;技术方面，围绕微服务体系，设计到哪些业务和技术主题&lt;/p&gt;&lt;p&gt;如何理解、如何应用、如何思考，有哪些机会和空间&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;如何做到业务理解&lt;/p&gt;&lt;p&gt;如何和不同的人沟通和交流，认清楚事情，讨论方案和权衡，汇报，分享等&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;问问题的方式体现了一些问题&lt;/p&gt;&lt;p&gt;1、问的问题是重要的吗？应该问什么问题？how vs why&lt;/p&gt;&lt;p&gt;2、why、how -&amp;nbsp; 为什么要做它？如何做好？比较优势&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="-530" width="300" height="530" as="geometry" />
+          <mxGeometry x="900" y="-555" width="300" height="530" as="geometry" />
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-66" value="外卖 C 端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1295" y="-480" width="80" height="40" as="geometry" />
