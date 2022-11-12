@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T11:12:57.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WK3i9pPbstJ0ENICXKVm" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-12T11:26:59.998Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Rwwb7sqRfoHca4TfcUMY" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
     <mxGraphModel dx="1103" dy="3034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -297,6 +297,18 @@
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-112" value="&lt;h1&gt;业务的扩展性如何做？ SPI 的实现机制、案例、中台等，具体是如何做到的&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2920" y="-1270" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-115" value="彻底掌握微服务架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="-1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-116" value="彻底掌握业务扩展性架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="-1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-117" value="业务分析和理解框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="-1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-118" value="基础技术能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2750" y="-1430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
