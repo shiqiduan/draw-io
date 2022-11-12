@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T10:27:28.608Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="q-MUSiPSNlASsMIsJUXg" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-12T11:12:57.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WK3i9pPbstJ0ENICXKVm" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
     <mxGraphModel dx="1103" dy="3034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -291,6 +291,12 @@
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-110" value="业务架构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="-2065" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-111" value="架构演进方向" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-2075" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-112" value="&lt;h1&gt;业务的扩展性如何做？ SPI 的实现机制、案例、中台等，具体是如何做到的&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="-1270" width="430" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
