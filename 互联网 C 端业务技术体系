@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T11:27:43.362Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jFT2F1Mka-4C8P1nUVsV" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-13T01:14:04.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="n_Weqz-VQAIv6FbzTSGp" version="20.5.2" type="github">
   <diagram id="I6b4aHNWNULFZu1jI65c" name="Page-1">
     <mxGraphModel dx="1103" dy="3034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -312,6 +312,21 @@
         </mxCell>
         <mxCell id="8At-T494mJCjucnSVLsG-119" value="一切的目标是为了更好的决策" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2130" y="-1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-120" value="架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="-460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-121" value="问题域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-122" value="解决方案域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3190" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-123" value="深刻理解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2975" y="-260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8At-T494mJCjucnSVLsG-124" value="深刻理解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3215" y="-260" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
